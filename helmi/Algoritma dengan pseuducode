@@ -1,0 +1,6 @@
+Input (a,b,c)
+If a=0 then 
+Write (‘bukan persamaan kuadrat’)
+Else
+D=(b*b) – (4*a*a)
+If D<0 then x= -b / 2*a output (x) else x1 = ( -b +sqrt(d))/2*a x2 = ( -b -sqrt(d))/2*a output ( x1, x2 ) end if end if end if
